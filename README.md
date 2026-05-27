@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=achunchunya&show_icons=true&count_private=true&bg_color=1e1c2a&title_color=c8b0bd&text_color=b1b7c3&icon_color=a99aaf&border_color=2f2d42" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-d9o5-p8pa4b8i1-achunchunyas-projects.vercel.app/api?username=achunchunya&show_icons=true&count_private=true&bg_color=1e1c2a&title_color=c8b0bd&text_color=b1b7c3&icon_color=a99aaf&border_color=2f2d42" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com?user=achunchunya&background=1e1c2a&stroke=2f2d42&ring=c8b0bd&fire=a99aaf&currStreakNum=b1b7c3&sideNums=b1b7c3&currStreakLabel=777091&sideLabels=777490&dates=777091" alt="Streak Stats" />
@@ -30,7 +30,7 @@
 </table>
 
 <!-- 语言分布 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achunchunya&layout=compact&langs_count=6&bg_color=1e1c2a&title_color=c8b0bd&text_color=b1b7c3&border_color=2f2d42" alt="Top Languages" />
+<img src="https://github-readme-stats-d9o5-p8pa4b8i1-achunchunyas-projects.vercel.app/api/top-langs/?username=achunchunya&layout=compact&langs_count=6&bg_color=1e1c2a&title_color=c8b0bd&text_color=b1b7c3&border_color=2f2d42" alt="Top Languages" />
 
 </div>
 
