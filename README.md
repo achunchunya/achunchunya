@@ -22,9 +22,9 @@
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sandy-eight-39.vercel.app/api?username=achunchunya&show_icons=true&count_private=true&bg_color=1e1c2a&title_color=c8b0bd&text_color=b1b7c3&icon_color=a99aaf&border_color=2f2d42" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sandy-eight-39.vercel.app/api?username=achunchunya&show_icons=true&count_private=true&bg_color=faf8f6&title_color=777091&text_color=6b6880&icon_color=a99aaf&border_color=d4cfe0" />
-        <img src="https://github-readme-stats-sandy-eight-39.vercel.app/api?username=achunchunya&show_icons=true&count_private=true&bg_color=faf8f6&title_color=777091&text_color=6b6880&icon_color=a99aaf&border_color=d4cfe0" alt="GitHub Stats" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-omega-hazel-37.vercel.app/api?username=achunchunya&show_icons=true&count_private=true&bg_color=1e1c2a&title_color=c8b0bd&text_color=b1b7c3&icon_color=a99aaf&border_color=2f2d42" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-omega-hazel-37.vercel.app/api?username=achunchunya&show_icons=true&count_private=true&bg_color=faf8f6&title_color=777091&text_color=6b6880&icon_color=a99aaf&border_color=d4cfe0" />
+        <img src="https://github-readme-stats-omega-hazel-37.vercel.app/api?username=achunchunya&show_icons=true&count_private=true&bg_color=faf8f6&title_color=777091&text_color=6b6880&icon_color=a99aaf&border_color=d4cfe0" alt="GitHub Stats" />
       </picture>
     </td>
     <td>
@@ -39,9 +39,9 @@
 
 <!-- 语言分布 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sandy-eight-39.vercel.app/api/top-langs/?username=achunchunya&layout=compact&langs_count=6&bg_color=1e1c2a&title_color=c8b0bd&text_color=b1b7c3&border_color=2f2d42" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sandy-eight-39.vercel.app/api/top-langs/?username=achunchunya&layout=compact&langs_count=6&bg_color=faf8f6&title_color=777091&text_color=6b6880&border_color=d4cfe0" />
-  <img src="https://github-readme-stats-sandy-eight-39.vercel.app/api/top-langs/?username=achunchunya&layout=compact&langs_count=6&bg_color=faf8f6&title_color=777091&text_color=6b6880&border_color=d4cfe0" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-omega-hazel-37.vercel.app/api/top-langs/?username=achunchunya&layout=compact&langs_count=6&bg_color=1e1c2a&title_color=c8b0bd&text_color=b1b7c3&border_color=2f2d42" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-omega-hazel-37.vercel.app/api/top-langs/?username=achunchunya&layout=compact&langs_count=6&bg_color=faf8f6&title_color=777091&text_color=6b6880&border_color=d4cfe0" />
+  <img src="https://github-readme-stats-omega-hazel-37.vercel.app/api/top-langs/?username=achunchunya&layout=compact&langs_count=6&bg_color=faf8f6&title_color=777091&text_color=6b6880&border_color=d4cfe0" alt="Top Languages" />
 </picture>
 
 </div>
