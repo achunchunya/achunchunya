@@ -61,7 +61,7 @@
 
 ![Java](https://img.shields.io/badge/Java-777091?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot 3](https://img.shields.io/badge/Spring_Boot_3.x-777091?style=for-the-badge&logo=springboot&logoColor=white)
-![MyBatis Plus](https://img.shields.io/badge/MyBatis_Plus-777091?style=for-the-badge&logoColor=white)
+![MyBatis Plus](https://img.shields.io/badge/MyBatis_Plus-777091?style=for-the-badge&logo=hibernate&logoColor=white)
 ![WebFlux](https://img.shields.io/badge/WebFlux-777091?style=for-the-badge&logo=spring&logoColor=white)
 
 **前端 · Frontend**
@@ -76,13 +76,13 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-8e7c92?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-8e7c92?style=for-the-badge&logo=langchain&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus_向量数据库-8e7c92?style=for-the-badge&logo=milvus&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_架构-8e7c92?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_架构-8e7c92?style=for-the-badge&logo=langchain&logoColor=white)
 
 **微服务 & 中间件 · Microservices**
 
 ![Spring Cloud Alibaba](https://img.shields.io/badge/Spring_Cloud_Alibaba-777490?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![Sharding JDBC](https://img.shields.io/badge/Sharding_JDBC-777490?style=for-the-badge&logo=apache&logoColor=white)
-![XXL-Job](https://img.shields.io/badge/XXL--Job-777490?style=for-the-badge&logoColor=white)
+![XXL-Job](https://img.shields.io/badge/XXL--Job-777490?style=for-the-badge&logo=apache&logoColor=white)
 
 **消息 & 缓存 · Messaging & Cache**
 
