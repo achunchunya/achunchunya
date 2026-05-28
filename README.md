@@ -109,6 +109,7 @@
 ![Docker](https://img.shields.io/badge/Docker-4a4860?style=for-the-badge&logo=docker&logoColor=e8dfe8)
 ![Jenkins](https://img.shields.io/badge/Jenkins_CICD-4a4860?style=for-the-badge&logo=jenkins&logoColor=e8dfe8)
 ![Rancher](https://img.shields.io/badge/Rancher_2.x-4a4860?style=for-the-badge&logo=rancher&logoColor=e8dfe8)
+![Skywalking](https://img.shields.io/badge/Skywalking-4a4860?style=for-the-badge&logo=apache&logoColor=e8dfe8)
 ![Nginx](https://img.shields.io/badge/Nginx-4a4860?style=for-the-badge&logo=nginx&logoColor=e8dfe8)
 
 </div>
