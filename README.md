@@ -79,8 +79,8 @@
 ![Python](https://img.shields.io/badge/Python_3.x-8e7c92?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-8e7c92?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-8e7c92?style=for-the-badge&logo=langchain&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus_向量数据库-8e7c92?style=for-the-badge&logo=milvus&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_架构-8e7c92?style=for-the-badge&logo=langchain&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-8e7c92?style=for-the-badge&logo=milvus&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8e7c92?style=for-the-badge&logo=langchain&logoColor=white)
 
 **微服务 & 中间件 · Microservices**
 
@@ -92,7 +92,7 @@
 
 **消息 & 缓存 · Messaging & Cache**
 
-![Redis](https://img.shields.io/badge/Redis集群-a08593?style=for-the-badge&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-a08593?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-a08593?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![RocketMQ](https://img.shields.io/badge/RocketMQ-a08593?style=for-the-badge&logo=apacherocketmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-a08593?style=for-the-badge&logo=apachekafka&logoColor=white)
@@ -108,7 +108,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-7b7491?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7b7491?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-7b7491?style=for-the-badge&logo=mongodb&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO分布式存储-7b7491?style=for-the-badge&logo=minio&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-7b7491?style=for-the-badge&logo=minio&logoColor=white)
 ![Aliyun OSS](https://img.shields.io/badge/Aliyun_OSS-7b7491?style=for-the-badge&logo=alibabacloud&logoColor=white)
 
 **DevOps**
