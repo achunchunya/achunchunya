@@ -66,17 +66,17 @@
 
 **前端 · Frontend**
 
-![React](https://img.shields.io/badge/React-6b6880?style=for-the-badge&logo=react&logoColor=c8b0bd)
-![TypeScript](https://img.shields.io/badge/TypeScript-6b6880?style=for-the-badge&logo=typescript&logoColor=c8b0bd)
-![Vue](https://img.shields.io/badge/Vue-6b6880?style=for-the-badge&logo=vuedotjs&logoColor=c8b0bd)
+![React](https://img.shields.io/badge/React-6b6880?style=for-the-badge&logo=react&logoColor=e8dfe8)
+![TypeScript](https://img.shields.io/badge/TypeScript-6b6880?style=for-the-badge&logo=typescript&logoColor=e8dfe8)
+![Vue](https://img.shields.io/badge/Vue-6b6880?style=for-the-badge&logo=vuedotjs&logoColor=e8dfe8)
 
 **AI 服务 · AI Service**
 
-![Python](https://img.shields.io/badge/Python_3.x-a99aaf?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-a99aaf?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-a99aaf?style=for-the-badge&logo=langchain&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus_向量数据库-a99aaf?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_架构-a99aaf?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python_3.x-8e7c92?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-8e7c92?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-8e7c92?style=for-the-badge&logo=langchain&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus_向量数据库-8e7c92?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_架构-8e7c92?style=for-the-badge&logoColor=white)
 
 **微服务 & 中间件 · Microservices**
 
@@ -86,29 +86,29 @@
 
 **消息 & 缓存 · Messaging & Cache**
 
-![Redis](https://img.shields.io/badge/Redis集群-c8b0bd?style=for-the-badge&logo=redis&logoColor=1e1c2a)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-c8b0bd?style=for-the-badge&logo=rabbitmq&logoColor=1e1c2a)
-![Kafka](https://img.shields.io/badge/Kafka-c8b0bd?style=for-the-badge&logo=apachekafka&logoColor=1e1c2a)
+![Redis](https://img.shields.io/badge/Redis集群-a08593?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-a08593?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-a08593?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 **大数据 · Big Data**
 
-![Flink](https://img.shields.io/badge/Flink-b1b7c3?style=for-the-badge&logo=apacheflink&logoColor=1e1c2a)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-b1b7c3?style=for-the-badge&logo=clickhouse&logoColor=1e1c2a)
+![Flink](https://img.shields.io/badge/Flink-8a92a3?style=for-the-badge&logo=apacheflink&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-8a92a3?style=for-the-badge&logo=clickhouse&logoColor=white)
 
 **存储 · Storage**
 
-![MySQL](https://img.shields.io/badge/MySQL-777091?style=for-the-badge&logo=mysql&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO分布式存储-777091?style=for-the-badge&logo=minio&logoColor=white)
-![Aliyun OSS](https://img.shields.io/badge/Aliyun_OSS-777091?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-7b7491?style=for-the-badge&logo=mysql&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO分布式存储-7b7491?style=for-the-badge&logo=minio&logoColor=white)
+![Aliyun OSS](https://img.shields.io/badge/Aliyun_OSS-7b7491?style=for-the-badge&logo=alibabacloud&logoColor=white)
 
 **DevOps**
 
-![Aliyun ECS](https://img.shields.io/badge/Aliyun_ECS-2f2d42?style=for-the-badge&logo=alibabacloud&logoColor=c8b0bd)
-![GitLab](https://img.shields.io/badge/GitLab-2f2d42?style=for-the-badge&logo=gitlab&logoColor=a99aaf)
-![Docker](https://img.shields.io/badge/Docker-2f2d42?style=for-the-badge&logo=docker&logoColor=777091)
-![Jenkins](https://img.shields.io/badge/Jenkins_CICD-2f2d42?style=for-the-badge&logo=jenkins&logoColor=b1b7c3)
-![Rancher](https://img.shields.io/badge/Rancher_2.x-2f2d42?style=for-the-badge&logo=rancher&logoColor=c8b0bd)
-![Nginx](https://img.shields.io/badge/Nginx-2f2d42?style=for-the-badge&logo=nginx&logoColor=b1b7c3)
+![Aliyun ECS](https://img.shields.io/badge/Aliyun_ECS-4a4860?style=for-the-badge&logo=alibabacloud&logoColor=e8dfe8)
+![GitLab](https://img.shields.io/badge/GitLab-4a4860?style=for-the-badge&logo=gitlab&logoColor=e8dfe8)
+![Docker](https://img.shields.io/badge/Docker-4a4860?style=for-the-badge&logo=docker&logoColor=e8dfe8)
+![Jenkins](https://img.shields.io/badge/Jenkins_CICD-4a4860?style=for-the-badge&logo=jenkins&logoColor=e8dfe8)
+![Rancher](https://img.shields.io/badge/Rancher_2.x-4a4860?style=for-the-badge&logo=rancher&logoColor=e8dfe8)
+![Nginx](https://img.shields.io/badge/Nginx-4a4860?style=for-the-badge&logo=nginx&logoColor=e8dfe8)
 
 </div>
 
