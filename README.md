@@ -21,16 +21,28 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-sandy-eight-39.vercel.app/api?username=achunchunya&show_icons=true&count_private=true&bg_color=1e1c2a&title_color=c8b0bd&text_color=b1b7c3&icon_color=a99aaf&border_color=2f2d42" alt="GitHub Stats" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sandy-eight-39.vercel.app/api?username=achunchunya&show_icons=true&count_private=true&bg_color=1e1c2a&title_color=c8b0bd&text_color=b1b7c3&icon_color=a99aaf&border_color=2f2d42" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sandy-eight-39.vercel.app/api?username=achunchunya&show_icons=true&count_private=true&bg_color=faf8f6&title_color=777091&text_color=6b6880&icon_color=a99aaf&border_color=d4cfe0" />
+        <img src="https://github-readme-stats-sandy-eight-39.vercel.app/api?username=achunchunya&show_icons=true&count_private=true&bg_color=faf8f6&title_color=777091&text_color=6b6880&icon_color=a99aaf&border_color=d4cfe0" alt="GitHub Stats" />
+      </picture>
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=achunchunya&background=1e1c2a&stroke=2f2d42&ring=c8b0bd&fire=a99aaf&currStreakNum=b1b7c3&sideNums=b1b7c3&currStreakLabel=777091&sideLabels=777490&dates=777091" alt="Streak Stats" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=achunchunya&background=1e1c2a&stroke=2f2d42&ring=c8b0bd&fire=a99aaf&currStreakNum=b1b7c3&sideNums=b1b7c3&currStreakLabel=777091&sideLabels=777490&dates=777091" />
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=achunchunya&background=faf8f6&stroke=d4cfe0&ring=777091&fire=c8b0bd&currStreakNum=6b6880&sideNums=6b6880&currStreakLabel=777091&sideLabels=a99aaf&dates=a99aaf" />
+        <img src="https://streak-stats.demolab.com?user=achunchunya&background=faf8f6&stroke=d4cfe0&ring=777091&fire=c8b0bd&currStreakNum=6b6880&sideNums=6b6880&currStreakLabel=777091&sideLabels=a99aaf&dates=a99aaf" alt="Streak Stats" />
+      </picture>
     </td>
   </tr>
 </table>
 
 <!-- 语言分布 -->
-<img src="https://github-readme-stats-sandy-eight-39.vercel.app/api/top-langs/?username=achunchunya&layout=compact&langs_count=6&bg_color=1e1c2a&title_color=c8b0bd&text_color=b1b7c3&border_color=2f2d42" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sandy-eight-39.vercel.app/api/top-langs/?username=achunchunya&layout=compact&langs_count=6&bg_color=1e1c2a&title_color=c8b0bd&text_color=b1b7c3&border_color=2f2d42" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sandy-eight-39.vercel.app/api/top-langs/?username=achunchunya&layout=compact&langs_count=6&bg_color=faf8f6&title_color=777091&text_color=6b6880&border_color=d4cfe0" />
+  <img src="https://github-readme-stats-sandy-eight-39.vercel.app/api/top-langs/?username=achunchunya&layout=compact&langs_count=6&bg_color=faf8f6&title_color=777091&text_color=6b6880&border_color=d4cfe0" alt="Top Languages" />
+</picture>
 
 </div>
 
@@ -66,7 +78,11 @@
 ### 📉 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=achunchunya&bg_color=1e1c2a&color=b1b7c3&line=a99aaf&point=c8b0bd&area=true&area_color=777091&hide_border=false&border_color=2f2d42" width="100%" alt="Activity Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=achunchunya&bg_color=1e1c2a&color=b1b7c3&line=a99aaf&point=c8b0bd&area=true&area_color=777091&hide_border=false&border_color=2f2d42" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=achunchunya&bg_color=faf8f6&color=6b6880&line=a99aaf&point=777091&area=true&area_color=d4cfe0&hide_border=false&border_color=d4cfe0" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=achunchunya&bg_color=faf8f6&color=6b6880&line=a99aaf&point=777091&area=true&area_color=d4cfe0&hide_border=false&border_color=d4cfe0" width="100%" alt="Activity Graph" />
+</picture>
 </div>
 
 ---
