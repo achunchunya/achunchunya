@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=777091&height=100&section=header" width="100%" />
 
 <!-- 打字动画标题 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=C8B0BD&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+%E9%98%BF%E6%A4%BF+%F0%9F%91%8B;Java+%26+Python+Full+Stack+Developer;%E7%94%A8%E4%BB%A3%E7%A0%81%E6%9E%84%E5%BB%BA%E6%9C%89%E6%B8%A9%E5%BA%A6%E7%9A%84%E4%BA%A7%E5%93%81;Building+things+that+matter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=C8B0BD&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+%E9%98%BF%E6%A4%BF+%F0%9F%91%8B;AI+Engineer+%C2%B7+%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88;LangChain+%C2%B7+RAG+%C2%B7+%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E6%88%98;%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84+%C2%B7+%E5%88%86%E5%B8%83%E5%BC%8F%E5%AE%9E%E6%88%98;Building+scalable+systems" alt="Typing SVG" />
 
 <br/>
 <sub><i>用代码构建有温度的产品 · Building things that matter</i></sub>
