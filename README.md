@@ -11,7 +11,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=achunchunya&color=a99aaf&style=flat-square)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=achunchunya&color=a99aaf&style=flat-square) -->
 
 <br/>
 
