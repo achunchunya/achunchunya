@@ -123,7 +123,7 @@
 
 **学习中 · Learning**
 
-![Go](https://img.shields.io/badge/Go-9b94a8?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Golang-9b94a8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-9b94a8?style=for-the-badge&logo=rust&logoColor=white)
 
 </div>
