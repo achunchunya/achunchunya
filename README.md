@@ -75,13 +75,13 @@
 ![Python](https://img.shields.io/badge/Python_3.x-8e7c92?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-8e7c92?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-8e7c92?style=for-the-badge&logo=langchain&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus_向量数据库-8e7c92?style=for-the-badge&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus_向量数据库-8e7c92?style=for-the-badge&logo=milvus&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_架构-8e7c92?style=for-the-badge&logoColor=white)
 
 **微服务 & 中间件 · Microservices**
 
 ![Spring Cloud Alibaba](https://img.shields.io/badge/Spring_Cloud_Alibaba-777490?style=for-the-badge&logo=alibabacloud&logoColor=white)
-![Sharding JDBC](https://img.shields.io/badge/Sharding_JDBC-777490?style=for-the-badge&logoColor=white)
+![Sharding JDBC](https://img.shields.io/badge/Sharding_JDBC-777490?style=for-the-badge&logo=apache&logoColor=white)
 ![XXL-Job](https://img.shields.io/badge/XXL--Job-777490?style=for-the-badge&logoColor=white)
 
 **消息 & 缓存 · Messaging & Cache**
