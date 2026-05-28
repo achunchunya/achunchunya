@@ -63,12 +63,16 @@
 ![Spring Boot 3](https://img.shields.io/badge/Spring_Boot_3.x-777091?style=for-the-badge&logo=springboot&logoColor=white)
 ![MyBatis Plus](https://img.shields.io/badge/MyBatis_Plus-777091?style=for-the-badge&logo=hibernate&logoColor=white)
 ![WebFlux](https://img.shields.io/badge/WebFlux-777091?style=for-the-badge&logo=spring&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-777091?style=for-the-badge&logo=nestjs&logoColor=white)
 
 **前端 · Frontend**
 
 ![React](https://img.shields.io/badge/React-6b6880?style=for-the-badge&logo=react&logoColor=e8dfe8)
 ![TypeScript](https://img.shields.io/badge/TypeScript-6b6880?style=for-the-badge&logo=typescript&logoColor=e8dfe8)
+![Ant Design](https://img.shields.io/badge/Ant_Design-6b6880?style=for-the-badge&logo=antdesign&logoColor=e8dfe8)
 ![Vue](https://img.shields.io/badge/Vue-6b6880?style=for-the-badge&logo=vuedotjs&logoColor=e8dfe8)
+![Element Plus](https://img.shields.io/badge/Element_Plus-6b6880?style=for-the-badge&logo=element&logoColor=e8dfe8)
+![Vite](https://img.shields.io/badge/Vite-6b6880?style=for-the-badge&logo=vite&logoColor=e8dfe8)
 
 **AI 服务 · AI Service**
 
@@ -84,6 +88,7 @@
 ![Nacos](https://img.shields.io/badge/Nacos-777490?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![Sharding JDBC](https://img.shields.io/badge/Sharding_JDBC-777490?style=for-the-badge&logo=apache&logoColor=white)
 ![XXL-Job](https://img.shields.io/badge/XXL--Job-777490?style=for-the-badge&logo=apache&logoColor=white)
+![Skywalking](https://img.shields.io/badge/Skywalking_链路追踪-777490?style=for-the-badge&logo=apache&logoColor=white)
 
 **消息 & 缓存 · Messaging & Cache**
 
@@ -107,9 +112,9 @@
 ![Aliyun ECS](https://img.shields.io/badge/Aliyun_ECS-4a4860?style=for-the-badge&logo=alibabacloud&logoColor=e8dfe8)
 ![GitLab](https://img.shields.io/badge/GitLab-4a4860?style=for-the-badge&logo=gitlab&logoColor=e8dfe8)
 ![Docker](https://img.shields.io/badge/Docker-4a4860?style=for-the-badge&logo=docker&logoColor=e8dfe8)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-4a4860?style=for-the-badge&logo=kubernetes&logoColor=e8dfe8)
 ![Jenkins](https://img.shields.io/badge/Jenkins_CICD-4a4860?style=for-the-badge&logo=jenkins&logoColor=e8dfe8)
 ![Rancher](https://img.shields.io/badge/Rancher_2.x-4a4860?style=for-the-badge&logo=rancher&logoColor=e8dfe8)
-![Skywalking](https://img.shields.io/badge/Skywalking-4a4860?style=for-the-badge&logo=apache&logoColor=e8dfe8)
 ![Nginx](https://img.shields.io/badge/Nginx-4a4860?style=for-the-badge&logo=nginx&logoColor=e8dfe8)
 
 </div>
