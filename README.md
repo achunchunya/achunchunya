@@ -121,6 +121,11 @@
 ![Rancher](https://img.shields.io/badge/Rancher_2.x-4a4860?style=for-the-badge&logo=rancher&logoColor=e8dfe8)
 ![Nginx](https://img.shields.io/badge/Nginx-4a4860?style=for-the-badge&logo=nginx&logoColor=e8dfe8)
 
+**学习中 · Learning**
+
+![Go](https://img.shields.io/badge/Go-9b94a8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-9b94a8?style=for-the-badge&logo=rust&logoColor=white)
+
 </div>
 
 ---
