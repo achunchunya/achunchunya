@@ -81,6 +81,7 @@
 **微服务 & 中间件 · Microservices**
 
 ![Spring Cloud Alibaba](https://img.shields.io/badge/Spring_Cloud_Alibaba-777490?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![Nacos](https://img.shields.io/badge/Nacos-777490?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![Sharding JDBC](https://img.shields.io/badge/Sharding_JDBC-777490?style=for-the-badge&logo=apache&logoColor=white)
 ![XXL-Job](https://img.shields.io/badge/XXL--Job-777490?style=for-the-badge&logo=apache&logoColor=white)
 
