@@ -94,16 +94,20 @@
 
 ![Redis](https://img.shields.io/badge/Redis集群-a08593?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-a08593?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![RocketMQ](https://img.shields.io/badge/RocketMQ-a08593?style=for-the-badge&logo=apacherocketmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-a08593?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 **大数据 · Big Data**
 
 ![Flink](https://img.shields.io/badge/Flink-8a92a3?style=for-the-badge&logo=apacheflink&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-8a92a3?style=for-the-badge&logo=clickhouse&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-8a92a3?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 **存储 · Storage**
 
 ![MySQL](https://img.shields.io/badge/MySQL-7b7491?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7b7491?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-7b7491?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO分布式存储-7b7491?style=for-the-badge&logo=minio&logoColor=white)
 ![Aliyun OSS](https://img.shields.io/badge/Aliyun_OSS-7b7491?style=for-the-badge&logo=alibabacloud&logoColor=white)
 
