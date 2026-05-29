@@ -60,71 +60,46 @@
 **后端 · Backend**
 
 ![Java](https://img.shields.io/badge/Java-777091?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot 3](https://img.shields.io/badge/Spring_Boot_3.x-777091?style=for-the-badge&logo=springboot&logoColor=white)
-![MyBatis Plus](https://img.shields.io/badge/MyBatis_Plus-777091?style=for-the-badge&logo=hibernate&logoColor=white)
-![WebFlux](https://img.shields.io/badge/WebFlux-777091?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-777091?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-777091?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-777091?style=for-the-badge&logo=fastapi&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-777091?style=for-the-badge&logo=nestjs&logoColor=white)
 
 **前端 · Frontend**
 
 ![React](https://img.shields.io/badge/React-6b6880?style=for-the-badge&logo=react&logoColor=e8dfe8)
-![TypeScript](https://img.shields.io/badge/TypeScript-6b6880?style=for-the-badge&logo=typescript&logoColor=e8dfe8)
-![Ant Design](https://img.shields.io/badge/Ant_Design-6b6880?style=for-the-badge&logo=antdesign&logoColor=e8dfe8)
 ![Vue](https://img.shields.io/badge/Vue-6b6880?style=for-the-badge&logo=vuedotjs&logoColor=e8dfe8)
-![Element Plus](https://img.shields.io/badge/Element_Plus-6b6880?style=for-the-badge&logo=element&logoColor=e8dfe8)
-![Vite](https://img.shields.io/badge/Vite-6b6880?style=for-the-badge&logo=vite&logoColor=e8dfe8)
+![TypeScript](https://img.shields.io/badge/TypeScript-6b6880?style=for-the-badge&logo=typescript&logoColor=e8dfe8)
 
-**AI 服务 · AI Service**
+**AI & 大数据 · AI & Big Data**
 
-![Python](https://img.shields.io/badge/Python_3.x-8e7c92?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-8e7c92?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-8e7c92?style=for-the-badge&logo=langchain&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-8e7c92?style=for-the-badge&logo=milvus&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-8e7c92?style=for-the-badge&logo=langchain&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-8e7c92?style=for-the-badge&logo=milvus&logoColor=white)
+![Flink](https://img.shields.io/badge/Flink-8e7c92?style=for-the-badge&logo=apacheflink&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-8e7c92?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-**微服务 & 中间件 · Microservices**
+**基础设施 · Infrastructure**
 
-![Spring Cloud Alibaba](https://img.shields.io/badge/Spring_Cloud_Alibaba-777490?style=for-the-badge&logo=alibabacloud&logoColor=white)
-![Nacos](https://img.shields.io/badge/Nacos-777490?style=for-the-badge&logo=alibabacloud&logoColor=white)
-![Sharding JDBC](https://img.shields.io/badge/Sharding_JDBC-777490?style=for-the-badge&logo=apache&logoColor=white)
-![XXL-Job](https://img.shields.io/badge/XXL--Job-777490?style=for-the-badge&logo=apache&logoColor=white)
-![Skywalking](https://img.shields.io/badge/Skywalking-777490?style=for-the-badge&logo=apache&logoColor=white)
-
-**消息 & 缓存 · Messaging & Cache**
-
-![Redis](https://img.shields.io/badge/Redis-a08593?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-a08593?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![RocketMQ](https://img.shields.io/badge/RocketMQ-a08593?style=for-the-badge&logo=apacherocketmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-a08593?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-**大数据 · Big Data**
-
-![Flink](https://img.shields.io/badge/Flink-8a92a3?style=for-the-badge&logo=apacheflink&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-8a92a3?style=for-the-badge&logo=clickhouse&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-8a92a3?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-**存储 · Storage**
-
-![MySQL](https://img.shields.io/badge/MySQL-7b7491?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7b7491?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-7b7491?style=for-the-badge&logo=mongodb&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-7b7491?style=for-the-badge&logo=minio&logoColor=white)
-![Aliyun OSS](https://img.shields.io/badge/Aliyun_OSS-7b7491?style=for-the-badge&logo=alibabacloud&logoColor=white)
-
-**DevOps**
-
-![Aliyun ECS](https://img.shields.io/badge/Aliyun_ECS-4a4860?style=for-the-badge&logo=alibabacloud&logoColor=e8dfe8)
-![GitLab](https://img.shields.io/badge/GitLab-4a4860?style=for-the-badge&logo=gitlab&logoColor=e8dfe8)
 ![Docker](https://img.shields.io/badge/Docker-4a4860?style=for-the-badge&logo=docker&logoColor=e8dfe8)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-4a4860?style=for-the-badge&logo=kubernetes&logoColor=e8dfe8)
-![Jenkins](https://img.shields.io/badge/Jenkins_CICD-4a4860?style=for-the-badge&logo=jenkins&logoColor=e8dfe8)
-![Rancher](https://img.shields.io/badge/Rancher_2.x-4a4860?style=for-the-badge&logo=rancher&logoColor=e8dfe8)
-![Nginx](https://img.shields.io/badge/Nginx-4a4860?style=for-the-badge&logo=nginx&logoColor=e8dfe8)
+![MySQL](https://img.shields.io/badge/MySQL-4a4860?style=for-the-badge&logo=mysql&logoColor=e8dfe8)
+![Redis](https://img.shields.io/badge/Redis-4a4860?style=for-the-badge&logo=redis&logoColor=e8dfe8)
+![Kafka](https://img.shields.io/badge/Kafka-4a4860?style=for-the-badge&logo=apachekafka&logoColor=e8dfe8)
 
-**学习中 · Learning**
+<!--
+**完整技术栈（已折叠）**
 
-![Go](https://img.shields.io/badge/Golang-9b94a8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-9b94a8?style=for-the-badge&logo=rust&logoColor=white)
+后端：Java · Python · Spring Boot 3 · MyBatis Plus · WebFlux · FastAPI · NestJS
+前端：React · Vue · TypeScript · Ant Design · Element Plus · Vite
+AI：LangChain · RAG · Milvus
+微服务：Spring Cloud Alibaba · Nacos · Sharding JDBC · XXL-Job · Skywalking
+消息&缓存：Redis · RabbitMQ · RocketMQ · Kafka
+大数据：Flink · ClickHouse · Elasticsearch
+存储：MySQL · PostgreSQL · MongoDB · MinIO · Aliyun OSS
+DevOps：Aliyun ECS · GitLab · Docker · Kubernetes · Jenkins · Rancher · Nginx
+学习中：Golang · Rust
+-->
 
 </div>
 
